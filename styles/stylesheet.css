@@ -115,7 +115,7 @@ a:hover {
 	width: 200px;
 }
 	
-.page-end-content {
+#page-end-content {
 	max-width: 100%;
 	border-bottom: 2px solid black;
 	text-align: right;
